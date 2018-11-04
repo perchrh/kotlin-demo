@@ -5,6 +5,5 @@
 
 fun main() {
     println("Hello, world!")
-    for (i in 1..4) println("hei")
 }
 

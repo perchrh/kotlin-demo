@@ -4,6 +4,7 @@ repositories {
 
 plugins {
     base
+    java
     kotlin("jvm") version "1.3.0"
 }
 
